@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TMqFK9wILStBOxX+2SVTc9PNIE5zEdexN9vWm9cmfsjSn/JTSZzJMgr2gMciFaLzGM1SawgJxpoAdVNK1jmfJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\junjieAMD\\source\\repos\\SignalRChat\\SignalRChat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\junjieAMD\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
